@@ -8,7 +8,7 @@ import { useRouter } from 'next/navigation'
 import React from 'react'
 import { toast } from "sonner"
 
-export default function page() {
+export default function Page() {
 
     const router = useRouter();
 
